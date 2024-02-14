@@ -26,7 +26,7 @@
 - Matplotlib and Seaborn for data visualization
 
 ## Acknowledgements
-- Thanks to the financial analytics community for insights and methodologies.
+- Thanks to the upgrad community for insights and methodologies.
 - Data provided by [LendingClub](https://www.lendingclub.com).
 
 ## Contact
